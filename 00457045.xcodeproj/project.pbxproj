@@ -90,6 +90,9 @@
 		59BFF7CB2238A37D00C56623 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				KnownAssetTags = (
+					"主頁",
+				);
 				LastSwiftUpdateCheck = 1010;
 				LastUpgradeCheck = 1010;
 				ORGANIZATIONNAME = ntoucs;
@@ -283,6 +286,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = QVL8RL5M9D;
 				INFOPLIST_FILE = 00457045/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -300,6 +304,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = QVL8RL5M9D;
 				INFOPLIST_FILE = 00457045/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
